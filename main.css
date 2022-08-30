@@ -1,0 +1,45 @@
+
+
+body{
+    display: flex;
+    justify-content:center;
+}
+
+.header-main{
+    display: flex;
+    background-color: black;
+    width: 90%;
+    height: 20rem;
+    justify-content:center;
+    border-radius: .5rem;
+    color: #fff;
+}
+
+.half-1{
+    width: 50%;
+    padding: 1rem;
+}
+
+.banner-write-up{
+    padding:3rem 0rem 0rem 3rem;
+}
+
+.banner-heading{
+    margin: 0rem;
+}
+.banner-paragraph{
+    margin: 0rem;
+    padding: 1.5rem 0rem 2.5rem 0rem;
+}
+
+
+
+
+
+
+.banner-link{
+    text-decoration: none;
+    color: #fff;
+    background-color: #FFBF00;
+    padding: 1rem 2rem;
+}
