@@ -19,6 +19,7 @@ body{
     height: fit-content;
     justify-content:center;
     border-radius: .5rem;
+    padding-bottom: 2rem;
     color: #fff;
 }
 
@@ -28,7 +29,7 @@ body{
 }
 /* hero write up  */
 .banner-write-up{
-    padding:3rem 0rem 0rem 3rem;
+    padding:1rem 0rem 0rem 3rem;
 }
 
 .banner-heading{
@@ -116,7 +117,7 @@ body{
 }
 
 .thumbnail-cards{
-    border: .05rem solid #80808051;
+    border: .05rem solid #E8E8E8;
     border-radius: 1rem;
 }
 
